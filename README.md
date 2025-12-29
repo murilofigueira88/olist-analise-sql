@@ -110,7 +110,7 @@ Valor médio gasto por pedido.
 ### Pedidos por Status
 Distribuição dos pedidos ao longo do fluxo operacional.
 
-![Pedidos por Status](images/05_pedidos_por_status.png)
+![Pedidos por Status](images/05_pedidos_status.png)
 
 ---
 
