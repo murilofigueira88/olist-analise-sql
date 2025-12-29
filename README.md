@@ -84,31 +84,40 @@ Validação da carga com consultas de conferência
 
 📄 Script: 02_carga_dados.sql
 
-3️⃣ Consultas Analíticas e Métricas de Negócio
+3️⃣## 📊 Consultas Analíticas e Métricas de Negócio
 
-Foram desenvolvidas 10 métricas analíticas, incluindo:
+### Receita por Categoria de Produto
+A análise abaixo mostra as categorias que mais geram receita no e-commerce.
 
-Receita total do e-commerce
+![Receita por Categoria](images/02_receita_categoria.png)
 
-Receita por categoria de produto
+---
 
-Top 10 categorias por faturamento
+### Top 10 Categorias por Receita
+Ranking das categorias com maior faturamento total.
 
-Ticket médio por pedido
+![Top 10 Categorias](images/03_top10_categorias.png)
 
-Volume de pedidos por status
+---
 
-Avaliação média dos clientes
+### Ticket Médio
+Valor médio gasto por pedido.
 
-Impacto do tempo de entrega na satisfação
+![Ticket Médio](images/04_ticket_medio.png)
 
-Distribuição de pedidos por forma de pagamento
+---
 
-Estados com maior volume de vendas
+### Pedidos por Status
+Distribuição dos pedidos ao longo do fluxo operacional.
 
-Produtos mais vendidos
+![Pedidos por Status](images/05_pedidos_por_status.png)
 
-📄 Script: 03_consultas_analiticas.sql
+---
+
+### Tempo de Entrega x Avaliação
+Relação entre prazo de entrega e satisfação do cliente.
+
+![Entrega x Avaliação](images/06_entrega_avaliacao.png)
 
 📊 Exemplos de Análises
 
